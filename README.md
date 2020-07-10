@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img width="250" height="250" src="https://github.com/simonestaffa/simonestaffa/blob/master/project-1.png" />
+</p>
+
+
 
 ### 🤓 I'm Simone, from Rome (Italy). My friends call me "lim" abbreviation for "limone" (🍋). I love playing football and I'm a great fan of AS Roma.
 ***
